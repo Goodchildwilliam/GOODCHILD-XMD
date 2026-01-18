@@ -85,7 +85,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J`) 
+                 await repondre(`https://whatsapp.com/channel/0029VbBAqgd4inoowRQ4K0J`) 
 
    
 
@@ -128,7 +128,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J`) 
+                 await repondre(`tap here to join my second channel https://whatsapp.com/channel/0029VbBAqg4inooNwRQ4K0J`) 
 
    
 
@@ -190,7 +190,6 @@ zokou({ nomCom: 'group1',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`top a link to join our group https://whatsapp.com/BtSKokkIC6VA2nYv71qdoQ?mode=wwt `) 
-
    
 
 
@@ -209,7 +208,7 @@ zokou({ nomCom: 'script',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`tap here to join our support group https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qdoQ?mode=wwt`) 
+                 await repondre(`tap here to join our support group https://chat.whatsapp.com/BtSKokkIC6VAnYv71qdoQ?mode=wwt`) 
 
 
 
@@ -248,7 +247,7 @@ zokou({ nomCom: 'me',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*check the developer via https://wa.me/255763755563*`) 
+                 await repondre(`*check the developer via https://wa.me/255792375563*`) 
 
    
 
@@ -276,9 +275,9 @@ zokou({ nomCom: 'problem',
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 1️⃣ || Creator = 𖥘 GOODCHILD WILLIAMZ 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-2️⃣ || WhattsApp Channel = https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J
+2️⃣ || WhattsApp Channel = https://whatsapp.com/channel/0029VbBAqg4inooNwRQ4K0J
 
-3️⃣ || Whatsapp group= https://chat.whatsapp.com/BtSKokkIC6VA2nYv71qdoQ?mode=wwt
+3️⃣ || Whatsapp group= https://chat.whatsapp.com/BtSKokkIC6VA2nYv7qdoQ?mode=wwt
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please join and Follow My Support Channel
 Wanna talk to me?👉 https://wa.me/255792375563 👈
